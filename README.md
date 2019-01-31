@@ -1,2 +1,4 @@
-# FinCustomerTag
-customer tagging for Chinese finance institutions /bank
+# Financial Customer Tagging
+Customer tagging for Chinese finance institutions / banks
+
+Phone/Weixin: 15319967068
